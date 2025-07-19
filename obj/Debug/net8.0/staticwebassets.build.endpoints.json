@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Gamestore.Frontend.hdmb275q8r.styles.css",
+      "AssetFile": "Gamestore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hdmb275q8r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4="
+        },
+        {
+          "Name": "label",
+          "Value": "Gamestore.Frontend.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "Gamestore.Frontend.styles.css",
+      "AssetFile": "Gamestore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug="
+        }
+      ]
+    },
+    {
+      "Route": "app.sw2b1e5w8n.css",
+      "AssetFile": "app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sw2b1e5w8n"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug="
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        }
+      ]
+    }
+  ]
+}

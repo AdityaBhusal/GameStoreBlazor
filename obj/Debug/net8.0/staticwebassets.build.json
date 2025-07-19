@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "KcN+Ge5HjkRb8nFtvH8GUV8k1M95J+gg1KwUdv4VZuQ=",
+  "Source": "Gamestore.Frontend",
+  "BasePath": "_content/Gamestore.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Gamestore.Frontend\\wwwroot",
+      "Source": "Gamestore.Frontend",
+      "ContentRoot": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\wwwroot\\",
+      "BasePath": "_content/Gamestore.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gamestore.Frontend.styles.css",
+      "SourceId": "Gamestore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Gamestore.Frontend",
+      "RelativePath": "Gamestore.Frontend#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "hdmb275q8r",
+      "Integrity": "+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gamestore.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gamestore.Frontend.bundle.scp.css",
+      "SourceId": "Gamestore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Gamestore.Frontend",
+      "RelativePath": "Gamestore.Frontend#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "hdmb275q8r",
+      "Integrity": "+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gamestore.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\wwwroot\\app.css",
+      "SourceId": "Gamestore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\wwwroot\\",
+      "BasePath": "_content/Gamestore.Frontend",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sw2b1e5w8n",
+      "Integrity": "hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug="
+        }
+      ]
+    },
+    {
+      "Route": "app.sw2b1e5w8n.css",
+      "AssetFile": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sw2b1e5w8n"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDMiMML3RkLNSDdzRDDCbl5BSgoDV5T2+m4JVhdgmug="
+        }
+      ]
+    },
+    {
+      "Route": "Gamestore.Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gamestore.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4="
+        }
+      ]
+    },
+    {
+      "Route": "Gamestore.Frontend.hdmb275q8r.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gamestore.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hdmb275q8r"
+        },
+        {
+          "Name": "label",
+          "Value": "Gamestore.Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4="
+        }
+      ]
+    },
+    {
+      "Route": "Gamestore.Frontend.hdmb275q8r.styles.css",
+      "AssetFile": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gamestore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hdmb275q8r"
+        },
+        {
+          "Name": "label",
+          "Value": "Gamestore.Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4="
+        }
+      ]
+    },
+    {
+      "Route": "Gamestore.Frontend.styles.css",
+      "AssetFile": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gamestore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Jul 2025 18:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ytYw7M0MaSaxOiTs10xS0LSZ1uvVcMcIrVwVZBlbo4="
+        }
+      ]
+    }
+  ]
+}

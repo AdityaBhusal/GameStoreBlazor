@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gamestore.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gamestore.Frontend.hdmb275q8r.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Downloads\\Gamestore-main (1)\\Gamestore-main\\Gamestore.Frontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gamestore.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gamestore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Gamestore.Frontend.props",
+      "PackagePath": "build\\Gamestore.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Gamestore.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\Gamestore.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Gamestore.Frontend.props",
+      "PackagePath": "buildTransitive\\Gamestore.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
